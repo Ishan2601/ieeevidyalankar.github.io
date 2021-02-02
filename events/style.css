@@ -1,0 +1,12 @@
+.card img{
+	height: 210px;
+}
+.row{
+	padding: 20px;
+}
+.col-md-4{
+	margin-bottom: 10px;
+}
+footer{
+	padding: 10px;
+}
